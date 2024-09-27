@@ -1,5 +1,8 @@
 # Custom
 *.xlsx
+*.dot
+*.png
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
